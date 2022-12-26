@@ -1,6 +1,6 @@
 /*
 
-   # Enunciado Ejercicio 2:
+   # Enunciado Ejercicio 3:
       Dada una palabra, buscarla en una frase y devolver cuantas veces aparece
    en ella.
       la frase y la palabre deben ser parámetros de una función.
