@@ -6,7 +6,7 @@ function palindromo(texto) {
                      .reverse()
                      .join('');
 
-   return ( invertido === texto )
+   return ( invertido === texto );
    
    
 }
