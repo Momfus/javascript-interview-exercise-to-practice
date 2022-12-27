@@ -35,6 +35,7 @@ function inverse( text ) {
 
 }
 
+// Execute
 console.log(
    inverse('Momfus')
 );

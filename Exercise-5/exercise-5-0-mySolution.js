@@ -1,6 +1,6 @@
 /*
 
-   # Enunciado Ejercicio 4:
+   # Enunciado Ejercicio 5:
       ¿Cuánto es el X por ciento de X número?
 
    #Ejemplos:
