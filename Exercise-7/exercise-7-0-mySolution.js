@@ -1,6 +1,6 @@
 /*
 
-   # Enunciado Ejercicio 6:
+   # Enunciado Ejercicio 7:
        Dado dos numeros, devolver cuantos números impares hay entre ellos.  
 
    #Ejemplos:
