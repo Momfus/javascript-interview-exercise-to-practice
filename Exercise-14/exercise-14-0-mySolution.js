@@ -4,9 +4,9 @@
    indique.
 
 #Ejemplos:
-   repeatString('victor', 2)
+   repeatString('matias', 2)
       Devuelve: 
-         victorvictor
+         matiasmatias
    
 # Sugerencias de cómo hacerlo: 
    - Crear una función que reciba los dos parámetros.
@@ -20,4 +20,4 @@ function repeatString(str, quantity) {
 
 }
 
-console.log( repeatString('victor', 2) );
+console.log( repeatString('matias', 2) );

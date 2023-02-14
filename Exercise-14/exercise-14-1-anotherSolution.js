@@ -10,7 +10,7 @@ function repiteme( text, numero_repeticiones ) {
 
    return resultado;
 }
-// console.log( repiteme('victor', 2) );
+// console.log( repiteme('matias', 2) );
 
 // Función prototipo
 String.prototype.repitemePrototipo = function(numero_repeticiones) {
@@ -25,4 +25,4 @@ String.prototype.repitemePrototipo = function(numero_repeticiones) {
 
 };
 
-console.log( 'victor'.repitemePrototipo(2) );
+console.log( 'matias'.repitemePrototipo(2) );

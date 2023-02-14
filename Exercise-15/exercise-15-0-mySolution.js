@@ -3,10 +3,10 @@
    Dada una cadena de texto, devolver el caracter más usado
 
 #Ejemplos:
-   mostUsedChar('victorroblesweb.es');
+   mostUsedChar('http://criosdevs.com/');
 
    Devuelve:
-      Lo que más se repite es: e
+      Lo que más se repite es: /
    
 # Sugerencias de cómo hacerlo: 
    - Crear una función que reciba el texto
@@ -77,4 +77,4 @@ function mostUsedChar( completeStr ) {
    
 }
 
-console.log( mostUsedChar('victorroblesweb.es') );
+console.log( mostUsedChar('http://criosdevs.com/') );
