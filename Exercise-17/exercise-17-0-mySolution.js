@@ -1,5 +1,5 @@
 /*
-# Enunciado Ejercicio 16:
+# Enunciado Ejercicio 17:
     Dado un número, mostrar los números de 1 hasta el número dado. Pero para 
    múltiplos de tres imprimir "buzz" en lugar del número y para los múltiplos
    de 5 imprimir "lightyear". Para múltiplos de 3 y 5, imprimir "BuzzLightyear"
