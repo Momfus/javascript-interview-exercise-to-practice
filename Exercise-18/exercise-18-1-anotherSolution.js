@@ -1,3 +1,4 @@
+// Resolución realizada por quien hizo el ejercicio:#
 
 
 function divisor( numero, posible_divisor) {
