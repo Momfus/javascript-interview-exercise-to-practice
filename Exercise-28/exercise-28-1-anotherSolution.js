@@ -1,3 +1,4 @@
+// Resolución realizada por quien hizo el ejercicio:#
 
 
 function factorial(numero) { // Es una no recursirva, que es bueno para no usar apilación de stack de ejecución.
