@@ -1,5 +1,5 @@
 /*
-# Enunciado Ejercicio 29:
+# Enunciado Ejercicio 30:
 
    Dado un array de numeros, devolver el array sin elementos duplicados.
    Si hay un string eliminarlo del array.
