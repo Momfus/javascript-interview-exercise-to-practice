@@ -19,6 +19,7 @@
    - Función con dos parametros.
    - Template string y operaciones.
    - Devolver resultado.
+   
 */
 
 function calculator( num1, num2 ) {
