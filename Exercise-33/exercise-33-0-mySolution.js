@@ -11,7 +11,7 @@
    let mi_reloj = new Reloj();
    mi_reloj.encender();
 
-   // Ejemplos:
+   // Return:
    14:20:16
    14:20:17
    14:20:18
