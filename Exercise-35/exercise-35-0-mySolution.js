@@ -3,8 +3,7 @@
 
    Dado un array, crear otro con el primer y el último elemento del original
 
-
-#Ejemplos:
+# Ejemplos:
 
    firstAndLast([100, 200, 300, 780])
 

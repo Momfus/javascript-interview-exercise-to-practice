@@ -2,11 +2,9 @@
 # Enunciado Ejercicio 36:
 
    
-#Ejemplos:
-
    Dado un texto, devolver cuantas consonantes y cuantas vocales tiene.
    
-   Ejemplo: 
+# Ejemplo: 
       countLetters('momfusArboleo.com');
 
       Return:

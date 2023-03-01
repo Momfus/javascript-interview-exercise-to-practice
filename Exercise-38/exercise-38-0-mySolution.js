@@ -1,9 +1,6 @@
 /*
 # Enunciado Ejercicio 38:
 
-   
-#Ejemplos:
-
     Dado un número,. mostrar listado de los cuadrados de todos los números
    naturales hasta llegar al mismo.
 
@@ -12,6 +9,7 @@
    - Dos funciones.
    - Hacer bucle del cero al número.
    - Sacar el cuadrado y mostrar
+
 */
 
 function powList( numb) {

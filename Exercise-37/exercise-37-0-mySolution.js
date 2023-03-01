@@ -2,8 +2,6 @@
 # Enunciado Ejercicio 37:
 
    
-#Ejemplos:
-
    Dado un array o un texto, devolver el elemento o palabra que más aparece.
 
    Ejemplo: 
