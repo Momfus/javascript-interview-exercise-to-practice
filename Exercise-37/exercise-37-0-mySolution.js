@@ -4,7 +4,7 @@
    
    Dado un array o un texto, devolver el elemento o palabra que más aparece.
 
-   Ejemplo: 
+# Ejemplo: 
       
       theMostRepeat('momfus arboleo momfus');   // Return: momfus
       theMostRepeat([1, 2, 3, 4, 1]);           // Return: 1
