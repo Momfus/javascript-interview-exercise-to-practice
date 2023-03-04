@@ -19,7 +19,7 @@
 */
 
 function triangle(levels) {
-   
+
   if (levels <= 0) {
     return `The levels number must be greater than zero`;
   }
@@ -50,25 +50,25 @@ console.log(triangle(4));
 /*
 
 Extra calculation I made
-   1
+levels 1
       *  1 = 1+0 = baseWidth
 
-   2
-    *  // freeSpaceSide = (baseWidth -1 ) / 2 --> then after each level, it reduce one
-   *** 3 = 2+1 
+levels 2
+      *  // freeSpaceSide = (baseWidth -1 ) / 2 --> then after each level, it reduce one
+     *** 3 = 2+1 
 
-   3
-     *
-    ***    
-   *****   5 = 3+2
+Levels 3
+      *
+     ***    
+    *****   5 = 3+2
    
-   4
+Levels 4
       *
      ***
     *****
    *******  7 = 4 + 3
 
-   5
+Levels 5
        *   
       ***
      *****
