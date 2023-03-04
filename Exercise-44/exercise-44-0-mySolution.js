@@ -1,5 +1,5 @@
 /*
-# Enunciado Ejercicio 43:
+# Enunciado Ejercicio 44:
 
     Dado un array de strings, devolver otro con los valores que esten formados 
    por más de dos palabras.
