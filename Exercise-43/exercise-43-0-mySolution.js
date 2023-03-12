@@ -9,8 +9,6 @@
 
       Return: 3
 
-# Sugerencias de cómo hacerlo: 
-   -   
 */
 
 /**

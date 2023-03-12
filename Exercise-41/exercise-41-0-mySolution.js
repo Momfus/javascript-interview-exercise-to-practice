@@ -13,9 +13,7 @@
         ***
        *****
       *******
-         
-# Sugerencias de cómo hacerlo: 
-   -   
+       
 */
 
 function triangle(levels) {

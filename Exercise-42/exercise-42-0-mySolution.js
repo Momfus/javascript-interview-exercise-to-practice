@@ -9,9 +9,7 @@
 
       Return: 46 (o cualquier número entero entre 1 y 100)
    
-         
-# Sugerencias de cómo hacerlo: 
-   -   
+       
 */
 
 

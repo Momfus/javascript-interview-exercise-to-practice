@@ -28,8 +28,6 @@
             Momfus (7)
             Fausto (9)
    
-# Sugerencias de cómo hacerlo: 
-   -   
 */
 
 function studentsSuspended( arrayStudentsNotes ) {

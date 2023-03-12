@@ -11,8 +11,6 @@
    Return: 
       ['buenos aires', 'momfus arboleo']
 
-# Sugerencias de cómo hacerlo: 
-   -   
 */
 
 
