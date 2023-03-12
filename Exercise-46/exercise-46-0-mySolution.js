@@ -1,5 +1,5 @@
 /*
-# Enunciado Ejercicio 45:
+# Enunciado Ejercicio 46:
 
     Dado un string, devolver todos los posibles substrings.
 
