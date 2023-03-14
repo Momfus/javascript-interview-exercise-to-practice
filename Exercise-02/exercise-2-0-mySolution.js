@@ -9,7 +9,7 @@
    #Ejemplos:
 
       palindrome("otto") // Return: true
-      palindrome("victor") // Return: false
+      palindrome("momfus") // Return: false
 
    # Sugerencias de cómo hacerlo: 
       - Función con parámetro "texto"
@@ -62,6 +62,6 @@ function palindrome( word ) {
 // Run function 
 console.log(
   "Otto : " + palindrome("otto") + "\n" +
-  "victor : " + palindrome("victor") + "\n" +
+  "victor : " + palindrome("momfus") + "\n" +
   "Bob : " + palindrome("Bob") + "\n" 
 );
